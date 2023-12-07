@@ -1,6 +1,7 @@
 # hello-world
 This is my third repository.
 I am looking forward to learning more about github.
-It was a big success.
-Version 27.
-I have been hacked 15 times.
+It was a failure.
+Version 22.
+This is the third update.
+I have not been hacked.
